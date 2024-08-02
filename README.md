@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+This website does not have functionalites for now since it is only HTML and CSS, my plan for improvement is to learn javascript and make this website functional as well.
