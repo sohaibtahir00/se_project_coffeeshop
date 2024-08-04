@@ -21,7 +21,7 @@
 
 .header__title {
     margin: 183px 0 0;
-    font-family: "Inter", "Arial", sans-serif;
+    font-family: "Inter", Arial, sans-serif;
     font-weight: 500;
     font-size: 60px;
     line-height: 72px;
@@ -51,7 +51,7 @@
     display: flex;
     justify-content: space-between;
     align-items:last baseline;
-    font-family: "Inter", "Arial", sans-serif;
+    font-family: "Inter", Arial, sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
