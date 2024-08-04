@@ -42,3 +42,14 @@
     position: absolute;
     z-index: 0;
 }
+
+.about__circle_animation_blurred {
+    animation: pulsate 1.3s ease-in-out infinite;
+    border-radius: 50%;
+    background-color: #1878DC;
+    width: 426px;
+    height: 426px;
+    transform: translate(-152px, -129px);
+    position: absolute;
+    z-index: 0;
+}
