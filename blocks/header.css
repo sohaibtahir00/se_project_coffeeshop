@@ -4,11 +4,13 @@
     position: relative;
     box-sizing: border-box;
     flex-direction: column;
-    height: 800px;
+    min-height: 720px;
+    max-height: 800px;
     background-color: #ffffff;
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(../images/background_header.svg);
+    z-index: 1;
 }
 
 .header__image {
@@ -17,6 +19,7 @@
     right: 5px;
     width: 646px;
     height: 568px;
+    z-index: -1;
 }
 
 .header__title {
@@ -38,12 +41,13 @@
     color: #3F96F3;
 }
 
-.header__subtitle {
+.header__description {
     margin: 28px 0 0;
     font-family: "Noto Serif", "Times new Roman", serif;
     font-size: 20px;
     line-height: 30px;
     max-width: 683px;
+    z-index: 2;
 }
 
 .header__footer {
