@@ -55,8 +55,9 @@
     background-color: #1878DC;
     width: 426px;
     height: 426px;
-    transform: translate(-152px, -129px);
     position: absolute;
+    top: -152px;
+    left: -129px;
     z-index: 0;
 }
 

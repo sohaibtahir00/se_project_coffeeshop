@@ -4,6 +4,7 @@
     position: relative;
     box-sizing: border-box;
     flex-direction: column;
+    height: 100vh;
     min-height: 720px;
     max-height: 800px;
     background-color: #ffffff;
